@@ -1,0 +1,16 @@
+
+streamlit
+groq
+python-dotenv
+psycopg[binary]
+fastmcp
+langchain
+langchain-groq
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+pypdf
+pandas
+plotly
+streamlit-mic-recorder
